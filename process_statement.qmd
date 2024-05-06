@@ -1,0 +1,27 @@
+---
+title: "Process Statement"
+author: "Sicheng Wang"
+format:
+  pdf:
+    number-sections: true
+    toc: true
+    toc-depth: 1
+---
+
+# Reflect on your journey
+
+1. At first, I reviewed the syllabus and discovered that we might need to work with coding combined with text analysis. Understanding how it functions seemed quite confusing to me at first. However, as I progressed in the learning process, I found it to be quite interesting, especially handling data based on linguistic knowledge. 
+
+2. Three learning outcomes:
+* Utilizing `Quarto` for presentations and establishing reproducible repositories in `RStudio` to share with peers by connecting to `GitHub`.
+* Connecting research questions with the selection of variables or datasets to address those research questions.
+* Conducting inferential data analysis independently.
+
+# Connect with your past
+
+1. Another valuable resource I've discovered is Stack Overflow, a website for getting coding questions answered.Besides the [text book](https://qtalr.github.io/book/), [recepies](https://qtalr.github.io/qtalrkit/articles/index.html) and Lessons, I think YouTube videos are most conducive. I tend to favor shorter videos, particularly those at an introductory level, as they meet my current needs and are easier for me to understand. Another thing I found quite useful is [stackoverflow](https://stackoverflow.com/), a website for answering questions about coding. 
+
+2. I find exploratory analysis and predictive analysis, particularly dealing with supervised and unsupervised learning, to be the most challenging for me. I struggle to grasp how the models function and the statistics behind them. As a result, I opted not to do these tasks myself and instead focused on inferential data analysis.
+
+# Look ahead:
+This course leads me to a new direction for exploring my career path, like studying concepts related to digital humanities or natural language processing to further collaborate with AI, or learning more about text analysis. I find the technique for visualizing datasets based on research questions very useful, even though I cannot think of a specific example.
